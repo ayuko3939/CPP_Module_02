@@ -24,7 +24,7 @@ Fixedクラスの基本実装。
 
 **実行**:
 ```bash
-./fixed
+./Fixed
 ```
 
 ### Exercise 01: Towards a more useful fixed-point number class
@@ -37,7 +37,7 @@ Fixedクラスの拡張実装。
 
 **実行**:
 ```bash
-./fixed
+./Fixed
 ```
 
 ### Exercise 02: Now we're talking
@@ -51,7 +51,7 @@ Fixedクラスの拡張実装。
 
 **実行**:
 ```bash
-./fixed
+./Fixed
 ```
 
 ## コンパイル要件
